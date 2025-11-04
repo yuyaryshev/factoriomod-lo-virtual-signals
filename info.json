@@ -1,0 +1,9 @@
+{
+  "name": "lo-virtual-signals",
+  "version": "1.0.0",
+  "title": "LordOdin's Virtual Signals",
+  "author": "LordOdin",
+  "description": "LordOdin's collection of additional virtual signals. For now only gauge signals are here.",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"]
+}
